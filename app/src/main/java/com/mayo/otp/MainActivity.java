@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                         sendotp.setVisibility(View.INVISIBLE);
 
                         PhoneAuthProvider.getInstance().verifyPhoneNumber(
-                                "+92" + editText1.getText().toString(),
+                                "+91" + editText1.getText().toString(),
                                 60,
                                 TimeUnit.SECONDS,
                                 MainActivity.this,

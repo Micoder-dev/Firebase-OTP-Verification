@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "705621963963",
-    "project_id": "otpverification-9591e",
-    "storage_bucket": "otpverification-9591e.appspot.com"
+    "project_number": "821382333422",
+    "project_id": "fir-otp-45e80",
+    "storage_bucket": "fir-otp-45e80.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:705621963963:android:bc1636f4d9db9f5618659e",
+        "mobilesdk_app_id": "1:821382333422:android:fec3b8ff6ad99e207144ff",
         "android_client_info": {
           "package_name": "com.mayo.otp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "705621963963-4n8th8hnspse5eua2l8ju25p4uqsr04l.apps.googleusercontent.com",
+          "client_id": "821382333422-v8eu1p5vb3ejecj63dla1pvttgpmrlo2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD0TW6TJMAPCpCDEM5F5v_EhkWcg9DJIe8"
+          "current_key": "AIzaSyBGwXxlHI1FFKdODOCHZ-hulJyG7wYLRpo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "705621963963-4n8th8hnspse5eua2l8ju25p4uqsr04l.apps.googleusercontent.com",
+              "client_id": "821382333422-v8eu1p5vb3ejecj63dla1pvttgpmrlo2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
